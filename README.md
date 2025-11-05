@@ -4,7 +4,7 @@ Hi, I'm Nitin Patil, an aspiring Data Analyst with strong skills in SQL, Power B
 Core Skills:
 Data Cleaning, Data Visualization, and Dashboard Development
 Business Performance Analysis & KPI Tracking
-Tools: MySQL | Power BI | MS Excel | Python (Basics)
+Tools: MySQL | Power BI | MS Excel | 
 
 What I Do:
 
